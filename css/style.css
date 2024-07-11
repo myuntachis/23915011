@@ -156,53 +156,7 @@ body{
 	text-decoration:underline;
 	color:#431b05;
 }
-.content div div.contact p{
-	color: #FFFEFF;
-	font: "Helvetica", sans-serif;
-	font-size:16px;
-	line-height: 41px;
-	margin: 0;
-	text-align: justify;
-	padding: 34px 0 0;
-}
-.content div div.contact p.address{
-	line-height: 52px;
-	margin: 13px 0 0;
-}
-.content div div.contact div.connect{
-	overflow:hidden;
-	padding: 0 0 63px;
-	margin: 46px 0 0;
-}
-.content div div.contact div.connect span{
-	float:left;
-	font-family: "Lucida Grande",sans-serif;
-	color:#401700;
-	text-shadow:0 1px 0 #ba835c;
-	font-size: 13px;
-	font-weight: bold;
-	margin: 0 17px 0 0;
-	line-height: 17px;
-}
-.content div div.contact div.connect a#content-twitter{
-	display:block;
-	text-indent:-99999px;
-	background:url(../images/icons.png) no-repeat 0 -156px;
-	width:25px;
-	height:18px;
-	float: left;
-	margin:0 10px 0 0;
-	outline:none;
-}
-.content div div.contact div.connect a#content-facebook{
-	display:block;
-	text-indent:-99999px;
-	background:url(../images/icons.png) no-repeat 0 -59px;
-	width:17px;
-	height:18px;
-	float: left;
-	outline:none;
-}
+
 .content div.blog{
 	overflow:hidden;
 	padding-bottom: 44px;
