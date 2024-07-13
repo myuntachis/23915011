@@ -49,7 +49,7 @@ body{
 .header div ul li a{
 	text-decoration:none;
 	color:#fff;
-	font-family: tahoma;
+	font-family: Helvetica, sans-serif;
 	font-size: 28px;
 	display: block;
 	font-family: arial;
@@ -98,7 +98,7 @@ body{
 }
 .content div ul li a{
 	display:block;
-	font-family: Helvetica, Arial, sans-serif;
+	font-family: Helvetica, sans-serif;
 	font-size:30px;
 	color:#fff;
 	text-decoration: none;
@@ -115,7 +115,7 @@ body{
 .content div ul li table td{
 	text-align:right;
 	color:#fffbea;
-	font-family: Helvetica, Arial, sans-serif;
+	font-family: Helvetica, sans-serif;
 	font-size:19px;
 	letter-spacing:1px;
 	padding: 0 0 5px;
@@ -126,7 +126,7 @@ body{
 .content div h3{
 	margin:0;
 	padding:54px 0 0;
-	font-family: Helvetica, Arial, sans-serif;
+	font-family: Helvetica, sans-serif;
 	color:#fffeff;
 	font-size:16px;
 	font-weight:bold;
@@ -134,7 +134,7 @@ body{
 }
 .content div p{
 	margin:0;
-	font-family: Helvetica, Arial, sans-serif;	
+	font-family: Helvetica, sans-serif;	
 	color:#fffeff;
 	font-size:16px;
 	margin: 11px 0 0;
@@ -146,7 +146,7 @@ body{
 	padding-bottom:65px;
 }
 .content div p a{
-	font-family: Helvetica, Arial, sans-serif;	
+	font-family: Helvetica, sans-serif;	
 	color:#fffeff;
 	text-decoration: underline;
 	font-size: inherit;
@@ -221,7 +221,7 @@ body{
 }
 .content div.blog div div.connect span{
 	float:left;
-	font-family: "Lucida Grande",sans-serif;
+	font-family: Lucida Grande,sans-serif;
 	color:#401700;
 	text-shadow:0 1px 0 #ba835c;
 	font-size: 13px;
@@ -269,7 +269,7 @@ body{
 	border: 0;
 }
 .footer div div:first-child p{
-	font-family: "Lucida Grande", sans-serif;
+	font-family: Lucida Grande, sans-serif;
 	font-size: 14px;
 	font-weight: normal;
 	color:#fff;
@@ -296,7 +296,7 @@ body{
 	margin: 12px 0 0;
 }
 .footer div div span{
-	font-family: Helvetica, Arial, sans-serif;
+	font-family: Helvetica, sans-serif;
 	font-size:18px;
 	text-transform:uppercase;
 	color: #fff;
@@ -342,14 +342,14 @@ body{
 	border: 0;
 }
 .footer div div h3{
-	font-family: "Lucida Grande", sans-serif;
+	font-family: Lucida Grande, sans-serif;
 	font-size: 14px;
 	font-weight: bold;
 	color:#fff;
 	margin: 10px 0 0
 }
 .footer div div p{
-	font-family: Helvetica, Arial, sans-serif;
+	font-family: Helvetica, sans-serif;
 	font-size:18px;
 	text-transform:uppercase;
 	color: #fff;
@@ -380,7 +380,7 @@ body{
 	float:left;
 }
 .footer div p{
-	font-family: Helvetica, Arial, sans-serif;
+	font-family: Helvetica, sans-serif;
 	font-size:13px;
 	color:#fff;
 	padding: 0 13px 0 0;
