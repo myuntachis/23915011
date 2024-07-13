@@ -98,7 +98,7 @@ body{
 }
 .content div ul li a{
 	display:block;
-	font-family: times new roman;
+	font-family: Helvetica, Arial, sans-serif;
 	font-size:30px;
 	color:#fff;
 	text-decoration: none;
@@ -115,7 +115,7 @@ body{
 .content div ul li table td{
 	text-align:right;
 	color:#fffbea;
-	font-family: "helvetica",sans-serif;
+	font-family: Helvetica, Arial, sans-serif;
 	font-size:19px;
 	letter-spacing:1px;
 	padding: 0 0 5px;
@@ -126,7 +126,7 @@ body{
 .content div h3{
 	margin:0;
 	padding:54px 0 0;
-	font-family: "helvetica",sans-serif;
+	font-family: Helvetica, Arial, sans-serif;
 	color:#fffeff;
 	font-size:16px;
 	font-weight:bold;
@@ -134,7 +134,7 @@ body{
 }
 .content div p{
 	margin:0;
-	font-family: "helvetica",sans-serif;	
+	font-family: Helvetica, Arial, sans-serif;	
 	color:#fffeff;
 	font-size:16px;
 	margin: 11px 0 0;
@@ -146,7 +146,7 @@ body{
 	padding-bottom:65px;
 }
 .content div p a{
-	font: "Helvetica", sans-serif;	
+	font-family: Helvetica, Arial, sans-serif;	
 	color:#fffeff;
 	text-decoration: underline;
 	font-size: inherit;
@@ -296,7 +296,7 @@ body{
 	margin: 12px 0 0;
 }
 .footer div div span{
-	font-family:times new roman;
+	font-family: Helvetica, Arial, sans-serif;
 	font-size:18px;
 	text-transform:uppercase;
 	color: #fff;
@@ -349,7 +349,7 @@ body{
 	margin: 10px 0 0
 }
 .footer div div p{
-	font-family:times new roman;
+	font-family: Helvetica, Arial, sans-serif;
 	font-size:18px;
 	text-transform:uppercase;
 	color: #fff;
@@ -380,7 +380,7 @@ body{
 	float:left;
 }
 .footer div p{
-	font-family: helvetica;
+	font-family: Helvetica, Arial, sans-serif;
 	font-size:13px;
 	color:#fff;
 	padding: 0 13px 0 0;
